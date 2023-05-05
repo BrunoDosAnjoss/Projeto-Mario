@@ -1,10 +1,4 @@
 # Projeto-Mario
-# Info Covid 19 - App to Android
-![GitHub repo size](https://img.shields.io/github/repo-size/diegoshakan/app_covid19?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/diegoshakan/app_covid19?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/diegoshakan/app_covid19?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/diegoshakan/app_covid19?style=plastic)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/diegoshakan/app_covid19?style=plastic)
 
 <p align="center">
   <img width="470" src="src/assets/to_readme/mario.png"">
